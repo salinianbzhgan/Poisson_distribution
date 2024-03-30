@@ -1,3 +1,6 @@
+# NAME:SALINI A
+# REG:212223220091
+
 # Fitting Poisson  distribution
 # Aim : 
 
